@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! I'm Jonathan, an aspiring software developer!
+
+- 🌱 I’m currently learning C++
+- 🔭 I’m currently working on improving my Unity games!
 
 <!--
 **jdwohl/jdwohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
